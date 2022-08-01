@@ -1,6 +1,5 @@
-this is page 2
 
 
- we are getting ready
-
- nothin new yet
+    This is page 2.
+    We are getting ready.
+    Nothing new yet.
